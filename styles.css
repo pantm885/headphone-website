@@ -98,7 +98,7 @@
    color:white;
 }
 .body {
-   background-color: rgb(235, 243, 243);
+   background-color: rgb(241, 246, 246);
 }
 .back {
    background-color: white;
@@ -188,8 +188,16 @@
    max-width: 100%;
    width: 400px;
    margin-top: 150px;
+  
+}
+
+.wes{
+   display: flex;
+   justify-content: center;
    
 }
+
+
 .for {
    margin-top: 150px;
 }
